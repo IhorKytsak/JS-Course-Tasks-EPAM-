@@ -10,7 +10,8 @@ functionality:
   of this row should not be changed.
 - If you click on a special cell, the background color on the whole table and cells, that were
   not selected should toggle to yellow.
-- Priority of colors:
+
+## Priority of colors:
 
 1. Yellow
 2. Blue
