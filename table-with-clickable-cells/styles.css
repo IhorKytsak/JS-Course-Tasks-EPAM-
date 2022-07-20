@@ -1,0 +1,24 @@
+#table {
+  margin: 10px auto 100px;
+  text-align: center;
+  border-spacing: 5px;
+}
+
+#table td {
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+  border: 1px solid black;
+  user-select: none;
+}
+
+.green {
+  background-color: green;
+}
+.blue {
+  background-color: blue;
+}
+
+.yellow {
+  background-color: yellow;
+}
