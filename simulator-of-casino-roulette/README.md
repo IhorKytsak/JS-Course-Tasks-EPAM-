@@ -34,3 +34,7 @@
 - Each time you ask user to enter a number you should show him a range of cells, how much
   attempts he has left, his total prize and possible prize on current attempt. See Figure 1:
 - All these stuffs should be repeated until user lose or decide to quit
+
+### Img
+![image](https://user-images.githubusercontent.com/59802802/180044820-a934b474-de44-4461-81d2-578b847fb0aa.png)
+
