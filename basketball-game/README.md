@@ -10,3 +10,6 @@ score. After the 3 seconds, notifications should fade away.
 
 For score notifications you should create a custom event with information about the team, that score
 the goal.
+
+## Example 
+![image](https://user-images.githubusercontent.com/59802802/180290744-186db5e2-f4b9-4d86-86c0-79285fee9112.png)
