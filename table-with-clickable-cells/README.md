@@ -16,3 +16,6 @@ functionality:
 1. Yellow
 2. Blue
 3. Green
+
+## Example:
+![image](https://user-images.githubusercontent.com/59802802/180289459-4634b028-fe89-4735-8d68-0e9b66ba5726.png)
